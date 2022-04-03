@@ -6,13 +6,21 @@ The purpose of this project was to analyze stocks for Steve's parents. The origi
 
 ## Results
 
-After the repurposed code is complete and I ran the analysis for the stocks in both 2017 and 2018 it is clear that 2017 had overall better returns than in 2018. In the original code it would take a longer time to run all the vaiorus stock analysis, but in the refactored code it is built to handle analysisng many stocks. I have below the execution times for the refactored code for each year.
+After the repurposed code is complete and I ran the analysis for the stocks in both 2017 and 2018 it is clear that 2017 had overall better returns than in 2018. As shown in the images below:
+
+![2017 Returns](https://github.com/lbp12/stock-analysis/blob/main/Resources/2017_Returns.png)
+
+*2017 Annual Returns*
+
+![2018 Returns](https://github.com/lbp12/stock-analysis/blob/main/Resources/2018_Returns.png)
+
+*2018 Annual Returns*
+
+In the original code it would take a longer time to run all the vaiorus stock analysis, but in the refactored code it is built to handle analysisng many stocks. I have below the execution times for the refactored code for each year.
 
 ![2017 Execution Time](https://github.com/lbp12/stock-analysis/blob/main/Resources/VBA_Challenge_2017.png)
 
 *2017 Execution Time*
-
-
 
 ![2018 Execution Time](https://github.com/lbp12/stock-analysis/blob/main/Resources/VBA_Challenge_2018.png)
 
